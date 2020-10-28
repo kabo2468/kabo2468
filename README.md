@@ -1,6 +1,6 @@
 ## Status
 
-- I'm currently working on [おいしいBot](https://github.com/kabo2468/oishii-bot) (now it is private, but will be public)
+- I'm currently working on [おいしいBot](https://github.com/kabo2468/oishii-bot) (now it is public!)
 
 ### Stats & Top Langs
 
